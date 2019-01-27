@@ -2,3 +2,7 @@ bazel-*
 *.pyc
 build_docs/
 generated/
+protoc-gen-validate/
+protobuf/
+gogoproto/
+validate/
