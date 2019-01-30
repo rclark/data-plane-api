@@ -6,3 +6,6 @@ protoc-gen-validate/
 protobuf/
 gogoproto/
 validate/
+google/
+googleapis/
+protocolbuffers/
