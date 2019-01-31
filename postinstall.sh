@@ -23,6 +23,6 @@ cd ..
 ln -s protoc-gen-validate/validate
 ln -s protobuf/gogoproto
 
-mkdir google
-cp -R googleapis/google/api google/
-cp -R protocolbuffers/src/google/protobuf google/
+# mkdir google
+cp -R googleapis/google google
+cp -R protocolbuffers/src/google/protobuf google/protobuf
